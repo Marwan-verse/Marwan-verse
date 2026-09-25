@@ -1,94 +1,71 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=140&section=header&text=Hey%2C%20I'm%20Marwan!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Hey, I'm Marwan" />
-
-  <h1>Marwan Fayad</h1>
-  <p><strong>Cybersecurity student · Developer · Security enthusiast</strong></p>
-
+  <img src="assets/museum-mark.svg" alt="marwan.makes logo" width="58">
+  <h1>marwan.makes</h1>
+  <p><strong>Serious curiosity. Playful results.</strong></p>
+  <p>A little museum of security tools, useful software, and little worlds I've built.</p>
   <p>
-    <a href="https://marrr.me"><img src="https://img.shields.io/badge/Portfolio-marrr.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/marwan-f/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:evomar2020@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://marrr.me/"><strong>Explore the museum ↗</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/Marwan-verse">GitHub</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/marwan-f/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:evomar2020@gmail.com">Say hello</a>
   </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+practical+security+tools;Exploring+offensive+%26+defensive+security;Turning+ideas+into+working+software" alt="Typing SVG" />
-
+  <img src="assets/museum-hero.webp" alt="A blue computer surrounded by a floppy disk, planet, and plant" width="480">
+  <p><sub>SECURITY WITH PURPOSE ✳ SOFTWARE WITH PERSONALITY ✳ A LITTLE ROOM FOR PLAY</sub></p>
 </div>
 
 ---
 
-## 👋 About me
+## 01 / Meet the maker
 
-I'm a **BSc Cybersecurity student at South East Technological University** in Ireland. I enjoy building practical tools that make security work more understandable, repeatable, and useful.
+I'm **Marwan Fayad**, a cybersecurity student and developer based in Ireland. I'm studying for a BSc in Cybersecurity at **South East Technological University**. I enjoy understanding how things work, building practical security tools, and bringing a bit of personality to software. My background also includes game development and graphic design. I speak English and Arabic.
 
-- 🔭 Currently working on **[WAFPierce](https://github.com/Marwan-verse/WAFPierce)**
-- 🌱 Currently learning **Offensive Security and penetration testing**
-- 🛡️ Interested in web security, reconnaissance, vulnerability analysis, and defensive monitoring
-- 🤝 Open to collaborating on **offensive and defensive security tools**
-- 🎮 Background in game development and graphic design
-- 🌍 Fluent in English and Arabic
+## 02 / The collection
 
-## 🚀 Featured projects
+The site brings together 11 projects across security, software, and games:
 
-<div align="center">
+| | Project | What it is |
+| --- | --- | --- |
+| 🛡️ | [Remanence](https://github.com/Marwan-verse/Remanence) | A local-first CTF file-forensics workbench for tracing evidence across many file types. |
+| 🎮 | [Planet Quest](https://github.com/Marwan-verse/Planet-Quest) | A puzzle-driven space exploration game with custom graphics and an entity-component system. |
+| 🌱 | [AgriBloom](https://agribloom.garden/) | A game-based agriculture and biotechnology learning platform, built with Team MNM. |
+| 🧩 | [FinNode](https://marrr.me/FinNode) | A Rust and Tauri desktop app for visual project navigation and workflows. |
+| 🛡️ | [Blackthorn](https://k0ngr3ss.dev/blackthorn/) | An open-source web security toolkit for scoped testing, evidence, and reporting. |
+| 📡 | [Signal Relay](https://marrr.me/?app=media) | A utility for inspecting public media and selecting original audio or video formats when you have permission. |
+| 🚀 | [The Great Space Adventure](https://github.com/Marwan-verse/The-great-space-adventure-68k-assem) | A retro space shooter written in Motorola 68000 assembly. |
+| 👾 | [DOOM.TXT](https://marrr.me/doom/) | A playable browser raycaster rendered as a grid of characters. |
+| 🛡️ | [Autucon](https://github.com/Marwan-verse/Autucon--Web-Scracping-Recon-Tool) | A Python reconnaissance toolkit for authorised security work. |
+| 🛡️ | [Log File Analyzer](https://github.com/Marwan-verse/Lorem-ipsum---log-file-analysis-tool) | A collaborative Python tool that finds suspicious patterns in server logs. |
+| ✳️ | [This little museum](https://marrr.me/) | The portfolio you're looking at, built to make these projects easy to explore. |
 
-  <a href="https://github.com/Marwan-verse/WAFPierce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marwan-verse&repo=WAFPierce&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" alt="WAFPierce" /></a>
-  <a href="https://github.com/Marwan-verse/Autucon--Web-Scracping-Recon-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marwan-verse&repo=Autucon--Web-Scracping-Recon-Tool&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" alt="Autucon" /></a>
-  <a href="https://github.com/Marwan-verse/Lorem-ipsum---log-file-analysis-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marwan-verse&repo=Lorem-ipsum---log-file-analysis-tool&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" alt="Log File Analyzer" /></a>
-  <a href="https://github.com/Marwan-verse/The-great-space-adventure-68k-assem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marwan-verse&repo=The-great-space-adventure-68k-assem&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" alt="The Great Space Adventure" /></a>
+## 03 / Behind the exhibits
 
-</div>
+This portfolio is built with **HTML, CSS, and JavaScript**. It has responsive project galleries, filters, detailed project views, an English/Arabic switch, keyboard-friendly navigation, and an interactive CV. It also includes a [Palestine awareness archive](https://marrr.me/#palestineAction), the Signal Relay utility, and a protected admin dashboard. The site is deployed on Vercel.
 
-| Project | What it does |
-| --- | --- |
-| **[WAFPierce](https://github.com/Marwan-verse/WAFPierce)** | Web application firewall and CDN bypass research toolkit. |
-| **[Autucon](https://github.com/Marwan-verse/Autucon--Web-Scracping-Recon-Tool)** | Python reconnaissance framework for crawling, OSINT, subdomain enumeration, and technology fingerprinting. |
-| **[Log File Analyzer](https://github.com/Marwan-verse/Lorem-ipsum---log-file-analysis-tool)** | SIEM-style log analysis for brute force, SQLi, LFI, and command injection patterns. |
-| **[The Great Space Adventure](https://github.com/Marwan-verse/The-great-space-adventure-68k-assem)** | Retro space shooter written in Motorola 68000 assembly. |
-| **[Planet Quest](https://github.com/Marwan-verse/Planet-Quest)** | Puzzle-driven space exploration game with custom graphics and ECS architecture. |
+The tools I use across my work include **Python, JavaScript/TypeScript, Rust, FastAPI, Tauri, Svelte, SQL, Docker, Linux, Git, HTML/CSS, and 68000 assembly**.
 
-## 🛠️ Tech stack
+## 04 / Along the way
 
-### Languages
+- **2026:** Volunteer Watchdog at the Women's International Cybersecurity Challenge in Dublin.
+- **2026:** Built AgriBloom with Team MNM at the EU-CONEXUS ENABLES Hackathon in Athens; the team placed second.
+- **2024–2028:** BSc Cybersecurity at South East Technological University.
+- **Since 2021:** Independent game development, with graphic design work since 2024.
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/Motorola%2068000%20Assembly-6E4C13?style=for-the-badge&logoColor=white)
+## 05 / Run locally
 
-### Frameworks and tools
+For the portfolio pages, open `index.html` in a browser. To run the site with the Signal Relay API, use Python 3 and install the development requirements:
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+```bash
+python -m pip install -r requirements-dev.txt
+python dev_server.py
+```
 
-## 📊 GitHub activity
+Then visit **http://127.0.0.1:4173**. The media utility requires a supported public source and permission to download the media.
 
-<div align="center">
+## 06 / Say hello
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marwan-verse&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-verse&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Marwan-verse&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+I'm open to ideas, opportunities, and collaborations. Reach me at **[evomar2020@gmail.com](mailto:evomar2020@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/marwan-f/).
 
-</div>
-
-## 📫 Find me online
-
-- 🌐 Portfolio: **[marrr.me](https://marrr.me)**
-- 💼 LinkedIn: **[marwan-f](https://www.linkedin.com/in/marwan-f/)**
-- 🐙 GitHub: **[Marwan-verse](https://github.com/Marwan-verse)**
-- ✉️ Email: **[evomar2020@gmail.com](mailto:evomar2020@gmail.com)**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=90&section=footer" alt="Footer" />
-  <sub>Built with curiosity, caffeine, and an unreasonable number of terminal tabs.</sub>
-</div>
+<p align="center"><sub>Made with care, and a lot of “what if?”</sub></p>
