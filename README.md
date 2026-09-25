@@ -1,12 +1,11 @@
-# Marwan Fayad's Portfolio
+# Marwan Portfolio
 
-This is the source code for my website, [marrr.me](https://marrr.me/). It shows my security tools, software projects, and games.
 
 [GitHub](https://github.com/Marwan-verse) · [LinkedIn](https://www.linkedin.com/in/marwan-f/) · [Email](mailto:evomar2020@gmail.com)
 
 ## About me
 
-I'm a cybersecurity student and developer based in Ireland. I'm studying for a BSc in Cybersecurity at South East Technological University. I also have experience in game development and graphic design. I speak English and Arabic.
+I'm a cybersecurity student and developer based in Ireland. I am a security researcher and open source developer. I'm studying for a BSc in Cybersecurity at South East Technological University. I also have experience in game development and graphic design. I speak English and Arabic.
 
 ## GitHub stats
 
@@ -33,7 +32,6 @@ I'm a cybersecurity student and developer based in Ireland. I'm studying for a B
 
 ## About this website
 
-The site uses HTML, CSS, and JavaScript. It includes project pages, filters, English and Arabic text, an online CV, and keyboard navigation. It also has a [Palestine awareness archive](https://marrr.me/#palestineAction), the Signal Relay tool, and an admin dashboard. It is hosted on Vercel.
 
 Tools I've used across my projects include Python, JavaScript, TypeScript, Rust, FastAPI, Tauri, Svelte, SQL, Docker, Linux, Git, HTML, CSS, and 68000 assembly.
 
